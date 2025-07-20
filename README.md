@@ -37,6 +37,7 @@
 Mic reservation, live rooms, host invites, and Firestore integration.
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/alizahid1996/alizahid/refs/heads/main/bg_remover_1.png" width="200"/>
   <img src="https://raw.githubusercontent.com/alizahid1996/alizahid/refs/heads/main/bg_remover_2.png" width="200"/>
   <img src="https://raw.githubusercontent.com/alizahid1996/alizahid/refs/heads/main/bg_remover_3.png" width="200"/>
 </p>
