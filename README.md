@@ -33,8 +33,8 @@
 ### 🧩 Notable Projects
 
 
-#### 🎤 Voice Chat App using Agora  
-Mic reservation, live rooms, host invites, and Firestore integration.
+#### ✂️ AI Background Remover  
+An advanced, user-friendly photo editing app that makes background removal fast, precise, and effortless. With tools like auto background remover, manual eraser, and a full suite of editing features—including filters, color adjustments, and background replacement—this app is perfect for product photography, social media content, and professional visuals. Whether you're a designer, influencer, or business owner, achieve studio-quality results right from your phone.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/alizahid1996/alizahid/refs/heads/main/bg_remover_1.png" width="200"/>
@@ -43,6 +43,15 @@ Mic reservation, live rooms, host invites, and Firestore integration.
 </p>
 
 ---
+
+#### 🎨 AI Logo Maker
+An all-in-one logo design app packed with 10,000+ templates, elements, fonts, and effects. Easily craft professional logos without design experience using AI-powered tools, 3D styles, text editing, and background customization. Ideal for businesses, creators, and startups across fashion, esports, photography, and more. Also includes features for flyers, thumbnails, business cards, and brand assets—all in a simple, user-friendly interface
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/alizahid1996/alizahid/refs/heads/main/bg_remover_1.png" width="200"/>
+  <img src="https://raw.githubusercontent.com/alizahid1996/alizahid/refs/heads/main/bg_remover_2.png" width="200"/>
+  <img src="https://raw.githubusercontent.com/alizahid1996/alizahid/refs/heads/main/bg_remover_3.png" width="200"/>
+</p>
 
 ### 📈 GitHub Stats
 <p align="center">
