@@ -30,6 +30,19 @@
 
 ---
 
+### 🧩 Notable Projects
+
+
+#### 🎤 Voice Chat App using Agora  
+Mic reservation, live rooms, host invites, and Firestore integration.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/alizahid1996/alizahid/refs/heads/main/bg_remover_2.png" width="200"/>
+  <img src="https://raw.githubusercontent.com/alizahid1996/alizahid/refs/heads/main/bg_remover_3.png" width="200"/>
+</p>
+
+---
+
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alizahid1996&show_icons=true&theme=radical" alt="GitHub stats"/>
