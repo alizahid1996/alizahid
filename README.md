@@ -48,9 +48,10 @@ An advanced, user-friendly photo editing app that makes background removal fast,
 An all-in-one logo design app packed with 10,000+ templates, elements, fonts, and effects. Easily craft professional logos without design experience using AI-powered tools, 3D styles, text editing, and background customization. Ideal for businesses, creators, and startups across fashion, esports, photography, and more. Also includes features for flyers, thumbnails, business cards, and brand assets—all in a simple, user-friendly interface
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alizahid1996/alizahid/refs/heads/main/bg_remover_1.png" width="200"/>
-  <img src="https://raw.githubusercontent.com/alizahid1996/alizahid/refs/heads/main/bg_remover_2.png" width="200"/>
-  <img src="https://raw.githubusercontent.com/alizahid1996/alizahid/refs/heads/main/bg_remover_3.png" width="200"/>
+  <img src="https://raw.githubusercontent.com/alizahid1996/alizahid/refs/heads/main/logo_maker_1.png" width="200"/>
+  <img src="https://raw.githubusercontent.com/alizahid1996/alizahid/refs/heads/main/logo_maker_2.png" width="200"/>
+  <img src="https://raw.githubusercontent.com/alizahid1996/alizahid/refs/heads/main/logo_maker_3.png" width="200"/>
+  <img src="https://raw.githubusercontent.com/alizahid1996/alizahid/refs/heads/main/logo_maker_4.png" width="200"/>
 </p>
 
 ### 📈 GitHub Stats
