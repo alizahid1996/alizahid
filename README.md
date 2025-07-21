@@ -64,6 +64,7 @@ A lightweight yet powerful video player that supports all formats like MP4, MKV,
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/alizahid1996/alizahid1996/refs/heads/main/video_player_1.png" width="200"/>
+  <img src="https://raw.githubusercontent.com/alizahid1996/alizahid1996/refs/heads/main/video_player_3.png" width="200"/>
 </p>
 
 ---
