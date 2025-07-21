@@ -63,8 +63,9 @@ An all-in-one logo design app packed with 10,000+ templates, elements, fonts, an
 A lightweight yet powerful video player that supports all formats like MP4, MKV, FLV, and more, delivering stunning HD/4K playback with an intuitive user interface. It includes essential features such as background play, floating pop-up window, subtitle support, built-in equalizer, sleep timer, auto media library organization, folder hiding for private videos, and playback speed control. This app is ideal for watching movies, music videos, or efficiently managing your offline video library on Android devices.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alizahid1996/alizahid1996/refs/heads/main/video_player_1.png" width="200"/>
   <img src="https://raw.githubusercontent.com/alizahid1996/alizahid1996/refs/heads/main/video_player_3.png" width="200"/>
+  <img src="https://raw.githubusercontent.com/alizahid1996/alizahid1996/refs/heads/main/video_player_1.png" width="200"/>
+
 </p>
 
 ---
